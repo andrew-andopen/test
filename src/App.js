@@ -8,12 +8,7 @@ const Header = () => (
 
 function App() {
 
-  constructor(props) {
-    super(props)
-    this.state = {
-      searchTerms: ''
-    }
-  }
+
 
 
   //When we have typed more than 2 characters, change the hint
